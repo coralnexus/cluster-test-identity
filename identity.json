@@ -1,0 +1,77 @@
+{
+  "users::user_label": "Test account",
+  "users::user_email": "someone@example.com",
+  "users::root_label": "Admin (Test admin)",
+  "users::root_email": "someone@example.com",
+  "users::known_hosts": [ "github.com" ],
+  "git::git_label": "Admin (Test git account)",
+  "git::git_email": "someone@example.com",
+  "git::allowed_ssh_key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDXzcqA65UJTyb3w+Nd9YmQK7r7KXmFLzdHSdOIugh28P6cWOgD+vo5HcrIshP7XABDCvTCAh8rJXzv738No1xHAQp/f17ZYLaWmPOq54osI4ardBXcKyNQNLc/yrbjk6hEZPpLbL6PqVtAo/zNtf5cUkJho4XYYIUYn9Q1hufDJN/Oqv5ECoGuhj7LcNV2QIIWcvvCH3iiI9BasQZYgP1gyD1dLJ4qLlNQ9EMqC4p0U1POmmi2pqSULeJGrKLJsvJldFRzxMDHK5/EXl8m8GN+H89G3U7z8Xyu2unwkWovkPGgIFS+peguAGi7o2tIxXNzY6UfgbketTv/layd0LJv",
+  "git::public_ssh_key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDXzcqA65UJTyb3w+Nd9YmQK7r7KXmFLzdHSdOIugh28P6cWOgD+vo5HcrIshP7XABDCvTCAh8rJXzv738No1xHAQp/f17ZYLaWmPOq54osI4ardBXcKyNQNLc/yrbjk6hEZPpLbL6PqVtAo/zNtf5cUkJho4XYYIUYn9Q1hufDJN/Oqv5ECoGuhj7LcNV2QIIWcvvCH3iiI9BasQZYgP1gyD1dLJ4qLlNQ9EMqC4p0U1POmmi2pqSULeJGrKLJsvJldFRzxMDHK5/EXl8m8GN+H89G3U7z8Xyu2unwkWovkPGgIFS+peguAGi7o2tIxXNzY6UfgbketTv/layd0LJv",
+  "git::private_ssh_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEA183KgOuVCU8m98PjXfWJkCu6+yl5hS83R0nTiLoIdvD+nFjo\nA/r6OR3KyLIT+1wAQwr0wgIfKyV87+9/DaNcRwEKf39e2WC2lpjzqueKLCOGq3QV\n3CsjUDS3P8q245OoRGT6S2y+j6lbQKP8zbX+XFJCYaOF2GCFGJ/UNYbnwyTfzqr+\nRAqBroY+y3DVdkCCFnL7wh94oiPQWrEGWID9YMg9XSyeKi5TUPRDKguKdFNTzppo\ntqaklC3iRqyiybLyZXRUc8TAxyufxF5fJvBjfh/PRt1O8/F8rtrp8JFqL5DxoCBU\nvqXoLgBou6NrSMVzc2OlH4G5HrU7/5WsndCybwIDAQABAoIBAB4sJLMPvR+3FGCx\n37lEWj5xDsyNCPOJHXZ3KP9F22cd3MtpVs8vqQqRUsfqtgZ/332AK6Zwe4Eh1a0K\nVD5I5975k0kuOsmzzvORYQg1JUl0kiCos2G8Gkzdgf2GTznUbENbxu8CvkYBzMNl\n6jOszWqFCcjy/wS4wgMmXZo6SW8sF+XtFDofI5vT1dBUBt7+/hv7CTfp20Z1RJxi\n7lB2U7ojeirlHN0bahlC0wEO1bKxRfDNfIW7xyowmJDGNmGZKb9ct6Bs0awtdi0l\nWyFdL53U4iZV8Br2+1+8IOns9OuL3QV/3+Drsa0jjzT67jyZGfK5dbV3mq7KCMOL\nFcc0RjECgYEA86L8AjpATAvzjF3BGQKMq7z53jkjeLXkGTwQ1tft9iVniDC78eVG\npTNTe5Ter8icQbY3GNAnG5/oF2dLqN3pTHZnll9ustY53xhfR2SIBsC6xvKKZfRv\nzxidti72HkvaVNlcIOvvOBQm9AcZVIH+m9cLWmTSWikQab9VrJjxtxkCgYEA4sE9\nGmbXthjS9ycI2q5D6bYrN6ixQlLhK2/iLz1kcxbbQ99vFlE++2cNbMITqRfdm6l9\nAaN+TvuZZCHvNOBfo9oG7n4nj+kznyD1uchEEh2g7t8QUgyim6iGU7A7hxresC76\nz8DYTyGcF+gU/i0FofIh6V2kKdZqo1OA+dYoDscCgYAs7xdZddLb86xUbAosCatW\nFUFkOdeP8MQD328foK1zo0xn8s0G/Qk9eKzh8v/rHa2r9OZOfj1oO+K7RkLO/zaC\n8qeCNVGeTCJaQg14hlMMI8mO3bamvSFN6bVUn26nAchfs8LpE3qINjdE9HY4fs0t\ngsjGQCgHluE/D5nGfmK+KQKBgAMvxgUN9vAXLzfL86LnGgs5xSe2Fi+hbIqoutwB\nF91KL/CnPi9pGuJ7k0O5An+41yNt4VTZkFfZz1EJ7QuoL4/k634EhdfO5ivRUcK3\nnsVGZ1GUDu2oQczANIsOifefGAwPzPSIeEG8bi4j08+yoEajWXinGTyBR+Rdsw1P\nxiZXAoGBALhRtaZoA1ojjoQvKltAnqBUSyzeb3xwS7SB6o3KR+uCKx8qGaBQ/0xz\n+GBAYhWS1llxbYVcXLnxtNbkxueB87YuhtOS86SFn+ABjoyLhH8aasMInRgMSgGI\ncLKpY/VEAbp67VX7cEmbtBBiVTLWGwGUx1ssBtzyrBJeRwaNAV8J\n-----END RSA PRIVATE KEY-----\n",
+  "git::root_config": {
+    "github": {
+      "user": "example"
+    }
+  },
+  "git::file": {
+    "vagrant_gitconfig": {
+      "path": "/home/vagrant/.gitconfig",
+      "content": {
+        "user": {
+          "name": "Vagrant development account",
+          "email": "someone@example.com"
+        }
+      }
+    }
+  },
+  "users::conf::git::private::keys::file": {
+    "github": {
+      "path": "id_github",
+      "content": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEA183KgOuVCU8m98PjXfWJkCu6+yl5hS83R0nTiLoIdvD+nFjo\nA/r6OR3KyLIT+1wAQwr0wgIfKyV87+9/DaNcRwEKf39e2WC2lpjzqueKLCOGq3QV\n3CsjUDS3P8q245OoRGT6S2y+j6lbQKP8zbX+XFJCYaOF2GCFGJ/UNYbnwyTfzqr+\nRAqBroY+y3DVdkCCFnL7wh94oiPQWrEGWID9YMg9XSyeKi5TUPRDKguKdFNTzppo\ntqaklC3iRqyiybLyZXRUc8TAxyufxF5fJvBjfh/PRt1O8/F8rtrp8JFqL5DxoCBU\nvqXoLgBou6NrSMVzc2OlH4G5HrU7/5WsndCybwIDAQABAoIBAB4sJLMPvR+3FGCx\n37lEWj5xDsyNCPOJHXZ3KP9F22cd3MtpVs8vqQqRUsfqtgZ/332AK6Zwe4Eh1a0K\nVD5I5975k0kuOsmzzvORYQg1JUl0kiCos2G8Gkzdgf2GTznUbENbxu8CvkYBzMNl\n6jOszWqFCcjy/wS4wgMmXZo6SW8sF+XtFDofI5vT1dBUBt7+/hv7CTfp20Z1RJxi\n7lB2U7ojeirlHN0bahlC0wEO1bKxRfDNfIW7xyowmJDGNmGZKb9ct6Bs0awtdi0l\nWyFdL53U4iZV8Br2+1+8IOns9OuL3QV/3+Drsa0jjzT67jyZGfK5dbV3mq7KCMOL\nFcc0RjECgYEA86L8AjpATAvzjF3BGQKMq7z53jkjeLXkGTwQ1tft9iVniDC78eVG\npTNTe5Ter8icQbY3GNAnG5/oF2dLqN3pTHZnll9ustY53xhfR2SIBsC6xvKKZfRv\nzxidti72HkvaVNlcIOvvOBQm9AcZVIH+m9cLWmTSWikQab9VrJjxtxkCgYEA4sE9\nGmbXthjS9ycI2q5D6bYrN6ixQlLhK2/iLz1kcxbbQ99vFlE++2cNbMITqRfdm6l9\nAaN+TvuZZCHvNOBfo9oG7n4nj+kznyD1uchEEh2g7t8QUgyim6iGU7A7hxresC76\nz8DYTyGcF+gU/i0FofIh6V2kKdZqo1OA+dYoDscCgYAs7xdZddLb86xUbAosCatW\nFUFkOdeP8MQD328foK1zo0xn8s0G/Qk9eKzh8v/rHa2r9OZOfj1oO+K7RkLO/zaC\n8qeCNVGeTCJaQg14hlMMI8mO3bamvSFN6bVUn26nAchfs8LpE3qINjdE9HY4fs0t\ngsjGQCgHluE/D5nGfmK+KQKBgAMvxgUN9vAXLzfL86LnGgs5xSe2Fi+hbIqoutwB\nF91KL/CnPi9pGuJ7k0O5An+41yNt4VTZkFfZz1EJ7QuoL4/k634EhdfO5ivRUcK3\nnsVGZ1GUDu2oQczANIsOifefGAwPzPSIeEG8bi4j08+yoEajWXinGTyBR+Rdsw1P\nxiZXAoGBALhRtaZoA1ojjoQvKltAnqBUSyzeb3xwS7SB6o3KR+uCKx8qGaBQ/0xz\n+GBAYhWS1llxbYVcXLnxtNbkxueB87YuhtOS86SFn+ABjoyLhH8aasMInRgMSgGI\ncLKpY/VEAbp67VX7cEmbtBBiVTLWGwGUx1ssBtzyrBJeRwaNAV8J\n-----END RSA PRIVATE KEY-----\n"
+    }
+  },
+  "users::conf::git::public::keys::file": {
+    "github": {
+      "path": "id_github.pub",
+      "content": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDXzcqA65UJTyb3w+Nd9YmQK7r7KXmFLzdHSdOIugh28P6cWOgD+vo5HcrIshP7XABDCvTCAh8rJXzv738No1xHAQp/f17ZYLaWmPOq54osI4ardBXcKyNQNLc/yrbjk6hEZPpLbL6PqVtAo/zNtf5cUkJho4XYYIUYn9Q1hufDJN/Oqv5ECoGuhj7LcNV2QIIWcvvCH3iiI9BasQZYgP1gyD1dLJ4qLlNQ9EMqC4p0U1POmmi2pqSULeJGrKLJsvJldFRzxMDHK5/EXl8m8GN+H89G3U7z8Xyu2unwkWovkPGgIFS+peguAGi7o2tIxXNzY6UfgbketTv/layd0LJv"
+    }
+  },
+  "users::conf::git::file": {
+    "ssh_conf": {
+      "content": {
+        "Host": {
+          "github.com": {
+            "StrictHostKeyChecking": "no",
+            "Identityfile": "~/.ssh/id_github"
+          }
+        }
+      }
+    }
+  },
+  "users::conf::vagrant::private::keys::file": {
+    "github": {
+      "path": "id_github",
+      "content": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEA183KgOuVCU8m98PjXfWJkCu6+yl5hS83R0nTiLoIdvD+nFjo\nA/r6OR3KyLIT+1wAQwr0wgIfKyV87+9/DaNcRwEKf39e2WC2lpjzqueKLCOGq3QV\n3CsjUDS3P8q245OoRGT6S2y+j6lbQKP8zbX+XFJCYaOF2GCFGJ/UNYbnwyTfzqr+\nRAqBroY+y3DVdkCCFnL7wh94oiPQWrEGWID9YMg9XSyeKi5TUPRDKguKdFNTzppo\ntqaklC3iRqyiybLyZXRUc8TAxyufxF5fJvBjfh/PRt1O8/F8rtrp8JFqL5DxoCBU\nvqXoLgBou6NrSMVzc2OlH4G5HrU7/5WsndCybwIDAQABAoIBAB4sJLMPvR+3FGCx\n37lEWj5xDsyNCPOJHXZ3KP9F22cd3MtpVs8vqQqRUsfqtgZ/332AK6Zwe4Eh1a0K\nVD5I5975k0kuOsmzzvORYQg1JUl0kiCos2G8Gkzdgf2GTznUbENbxu8CvkYBzMNl\n6jOszWqFCcjy/wS4wgMmXZo6SW8sF+XtFDofI5vT1dBUBt7+/hv7CTfp20Z1RJxi\n7lB2U7ojeirlHN0bahlC0wEO1bKxRfDNfIW7xyowmJDGNmGZKb9ct6Bs0awtdi0l\nWyFdL53U4iZV8Br2+1+8IOns9OuL3QV/3+Drsa0jjzT67jyZGfK5dbV3mq7KCMOL\nFcc0RjECgYEA86L8AjpATAvzjF3BGQKMq7z53jkjeLXkGTwQ1tft9iVniDC78eVG\npTNTe5Ter8icQbY3GNAnG5/oF2dLqN3pTHZnll9ustY53xhfR2SIBsC6xvKKZfRv\nzxidti72HkvaVNlcIOvvOBQm9AcZVIH+m9cLWmTSWikQab9VrJjxtxkCgYEA4sE9\nGmbXthjS9ycI2q5D6bYrN6ixQlLhK2/iLz1kcxbbQ99vFlE++2cNbMITqRfdm6l9\nAaN+TvuZZCHvNOBfo9oG7n4nj+kznyD1uchEEh2g7t8QUgyim6iGU7A7hxresC76\nz8DYTyGcF+gU/i0FofIh6V2kKdZqo1OA+dYoDscCgYAs7xdZddLb86xUbAosCatW\nFUFkOdeP8MQD328foK1zo0xn8s0G/Qk9eKzh8v/rHa2r9OZOfj1oO+K7RkLO/zaC\n8qeCNVGeTCJaQg14hlMMI8mO3bamvSFN6bVUn26nAchfs8LpE3qINjdE9HY4fs0t\ngsjGQCgHluE/D5nGfmK+KQKBgAMvxgUN9vAXLzfL86LnGgs5xSe2Fi+hbIqoutwB\nF91KL/CnPi9pGuJ7k0O5An+41yNt4VTZkFfZz1EJ7QuoL4/k634EhdfO5ivRUcK3\nnsVGZ1GUDu2oQczANIsOifefGAwPzPSIeEG8bi4j08+yoEajWXinGTyBR+Rdsw1P\nxiZXAoGBALhRtaZoA1ojjoQvKltAnqBUSyzeb3xwS7SB6o3KR+uCKx8qGaBQ/0xz\n+GBAYhWS1llxbYVcXLnxtNbkxueB87YuhtOS86SFn+ABjoyLhH8aasMInRgMSgGI\ncLKpY/VEAbp67VX7cEmbtBBiVTLWGwGUx1ssBtzyrBJeRwaNAV8J\n-----END RSA PRIVATE KEY-----\n"
+    }
+  },
+  "users::conf::vagrant::public::keys::file": {
+    "github": {
+      "path": "id_github.pub",
+      "content": "AAAAB3NzaC1yc2EAAAADAQABAAABAQDXzcqA65UJTyb3w+Nd9YmQK7r7KXmFLzdHSdOIugh28P6cWOgD+vo5HcrIshP7XABDCvTCAh8rJXzv738No1xHAQp/f17ZYLaWmPOq54osI4ardBXcKyNQNLc/yrbjk6hEZPpLbL6PqVtAo/zNtf5cUkJho4XYYIUYn9Q1hufDJN/Oqv5ECoGuhj7LcNV2QIIWcvvCH3iiI9BasQZYgP1gyD1dLJ4qLlNQ9EMqC4p0U1POmmi2pqSULeJGrKLJsvJldFRzxMDHK5/EXl8m8GN+H89G3U7z8Xyu2unwkWovkPGgIFS+peguAGi7o2tIxXNzY6UfgbketTv/layd0LJv"
+    }
+  },
+  "users::conf::vagrant::file": {
+    "ssh_conf": {
+      "content": {
+        "Host": {
+          "github.com": {
+            "StrictHostKeyChecking": "no",
+            "Identityfile": "~/.ssh/id_github"
+          }
+        }
+      }
+    }
+  },
+  "nullmailer::service_ensure": "stopped"
+}
